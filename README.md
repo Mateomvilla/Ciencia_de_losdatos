@@ -21,4 +21,6 @@ Este es otro texto . Ejemplo de cógido en Python
     for n in range(10):
         print (n)
 
-Haga click [aqui](www.google.com) para ir a google 
+
+## Sección 3
+Haga click [aqui](https://www.google.com) para ir a google 
